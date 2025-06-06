@@ -1,7 +1,7 @@
-## 📊 Sales Performance Dashboard – APAC Region
+## 📊 Sales Performance Dashboard 
 
 ### Overview  
-This project provides a comprehensive sales performance analysis across APAC and global regions using interactive Power BI dashboards. The goal is to identify profitability trends, high-performing segments, and optimize decisions related to shipping, product categories, and customer segments.
+This project provides a comprehensive sales performance analysis across global regions using interactive Power BI dashboards. The goal is to identify profitability trends, high-performing segments, and optimize decisions related to shipping, product categories, and customer segments.
 
 ### Objective  
 Analyze sales, profit, quantity, shipping patterns, and regional performance from 2011 to 2014, with a special focus on segment-based profitability and forecasting sales growth.
@@ -21,11 +21,10 @@ Analyze sales, profit, quantity, shipping patterns, and regional performance fro
 1. **Standard class shipping** is the most profitable overall, though declining in trend.
 2. **Technology products** are most profitable via **first-class shipping to corporate** clients.
 3. **Furniture and office supplies** (excluding tables) perform better via **first-class to corporate**.
-4. **Same-day shipping** in **Australia** is highly profitable for **tables in corporate segment**.
+4. **Same-day shipping** in **Central** is highly profitable for **tables in corporate segment**.
 5. **Consumer electronics** show rising profits with **standard and second-class** shipping.
-6. **Furniture in home office** segments in **Pakistan and Thailand** is **not viable** under standard shipping.
-7. The **home office** segment is least profitable (except for tech and office supplies).
-8. **New Zealand** is profitable for **shipping tables using standard class**.
+6. The **home office** segment is least profitable (except for tech and office supplies).
+7. **New Zealand** is profitable for **shipping tables using standard class**.
 
 ### ✅ Recommendations
 - **Adapt Shipping Strategies**: Use shipping methods based on product category and region.
