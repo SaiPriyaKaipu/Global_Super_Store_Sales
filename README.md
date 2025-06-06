@@ -31,8 +31,6 @@ Analyze sales, profit, quantity, shipping patterns, and regional performance fro
 - **Focus on Profitable Modes**: 
   - Technology → standard class  
   - Furniture & supplies → first-class (except tables: same-day)
-- **Country-Level Adjustments**: 
-  - Modify approach in Pakistan, Thailand, and New Zealand.
 - **Segment-Specific Focus**: 
   - Reduce reliance on home office segment; strengthen corporate and consumer focus.
 
